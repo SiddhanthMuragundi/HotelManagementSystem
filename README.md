@@ -6,3 +6,13 @@ MySQL to efficiently manage reservations, check-ins, check-outs, and room operat
 solution for the project.
 * Conducted comprehensive testing and validation using Postman API, gaining practical
 experience with essential testing tools.
+
+## Accessing API Documentation
+* After running the code, explore the API documentation by navigating to the following link:
+[Hotel Management System API Documentation](http://localhost:8080/swagger-ui.html#) (http://localhost:8080/swagger-ui.html#)
+
+## Reference Documentation
+* For a more in-depth understanding and comprehensive guide, please refer to the [HotelManagementSystem_detailed_documenation.pdf](path/to/HotelManagementSystem_detailed_documenation.pdf) file.
+* For a quick overview, you can also check the [HotelManagementSystem_brief_documenation.pdf](path/to/HotelManagementSystem_brief_documenation.pdf) file.
+
+
